@@ -20,7 +20,7 @@ An intelligent, autonomous AI agent application that continuously scouts, dedupl
   - Sourced direct career page links and publicly listed or verified talent emails (never guessed or fabricated).
 - **Email Agent (Twice Daily)**:
   - Runs automatically via scheduler at **11:00 AM IST** and **4:30 PM IST**.
-  - Sends a responsive HTML email table to `nanjundabsom@gmail.com` via Gmail OAuth 2.0.
+  - Sends a responsive HTML email table to `yourmail@gmail.com` via Gmail OAuth 2.0.
   - Badges new jobs discovered since the previous run.
 - **Live Next.js 14 Dashboard**:
   - Filterable by role, company type, source, status, and minimum score.
